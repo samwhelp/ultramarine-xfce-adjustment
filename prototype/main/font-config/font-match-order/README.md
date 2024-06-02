@@ -2,9 +2,28 @@
 # Font
 
 
+
+
 ## Arch Wiki
 
 * [Fonts](https://wiki.archlinux.org/title/fonts)
+
+
+
+
+## Fedora Docs
+
+* [Adding New Fonts in Fedora](https://docs.fedoraproject.org/en-US/quick-docs/fonts/)
+* [Fonts](https://docs.fedoraproject.org/en-US/packaging-guidelines/FontsPolicy/)
+
+
+
+
+## Ultramarine Wiki
+
+* [Localization, Internationalization and Multilingualization](https://wiki.ultramarine-linux.org/en/usage/l10n/)
+
+
 
 
 ## Config File Path
@@ -14,37 +33,33 @@
 | [~/.config/fontconfig/conf.d/50-font-match-order.conf](./asset/overlay/etc/skel/.config/fontconfig/conf.d/50-font-match-order.conf) |
 
 
-## Arch Package
+## Fedora Package
 
-| Arch Package |
+| Fedora Package |
 | --- |
-| [ttf-dejavu](https://archlinux.org/packages/extra/any/ttf-dejavu/) |
+| [dejavu-fonts-all](https://packages.fedoraproject.org/pkgs/dejavu-fonts/dejavu-fonts-all/) |
+| [dejavu-sans-fonts](https://packages.fedoraproject.org/pkgs/dejavu-fonts/dejavu-sans-fonts/) |
+| [dejavu-sans-mono-fonts](https://packages.fedoraproject.org/pkgs/dejavu-fonts/dejavu-sans-mono-fonts/) |
+| [dejavu-serif-fonts](https://packages.fedoraproject.org/pkgs/dejavu-fonts/dejavu-serif-fonts/) |
 
 
-| Arch Package |
+| Fedora Package |
 | --- |
-| [ttf-ubuntu-font-family](https://archlinux.org/packages/extra/any/ttf-ubuntu-font-family/) |
-| [ttf-ubuntu-nerd](https://archlinux.org/packages/extra/any/ttf-ubuntu-nerd/) |
-| [ttf-ubuntu-mono-nerd](https://archlinux.org/packages/extra/any/ttf-ubuntu-mono-nerd/) |
+| [google-noto-sans-cjk-vf-fonts](https://packages.fedoraproject.org/pkgs/google-noto-sans-cjk-vf-fonts/google-noto-sans-cjk-vf-fonts) |
+| [google-noto-sans-mono-cjk-vf-fonts](https://packages.fedoraproject.org/pkgs/google-noto-sans-cjk-vf-fonts/google-noto-sans-mono-cjk-vf-fonts/) |
+| [google-noto-serif-cjk-vf-fonts](https://packages.fedoraproject.org/pkgs/google-noto-serif-cjk-vf-fonts/google-noto-serif-cjk-vf-fonts/) |
 
 
-| Arch Package |
+| Fedora Package |
 | --- |
-| [noto-fonts](https://archlinux.org/packages/extra/any/noto-fonts/) |
-| [noto-fonts-cjk](https://archlinux.org/packages/extra/any/noto-fonts-cjk/) |
-| [noto-fonts-emoji](https://archlinux.org/packages/extra/any/noto-fonts-emoji/) |
-| [noto-fonts-extra](https://archlinux.org/packages/extra/any/noto-fonts-extra/) |
+| [liberation-mono-fonts](https://packages.fedoraproject.org/pkgs/liberation-fonts/liberation-mono-fonts/) |
+| [liberation-sans-fonts](https://packages.fedoraproject.org/pkgs/liberation-fonts/liberation-sans-fonts/) |
+| [liberation-serif-fonts](https://packages.fedoraproject.org/pkgs/liberation-fonts/liberation-serif-fonts/) |
 
 
-| Arch Package |
+| Fedora Package |
 | --- |
-| [ttf-liberation](https://archlinux.org/packages/extra/any/ttf-liberation/) |
-| [ttf-liberation-mono-nerd](https://archlinux.org/packages/extra/any/ttf-liberation-mono-nerd/) |
-
-
-| Arch Package |
-| --- |
-| [ttf-jetbrains-mono](https://archlinux.org/packages/extra/any/ttf-jetbrains-mono/) |
+| [jetbrains-mono-fonts](https://packages.fedoraproject.org/pkgs/jetbrains-mono-fonts/jetbrains-mono-fonts/) |
 
 
 

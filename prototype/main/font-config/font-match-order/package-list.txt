@@ -11,7 +11,7 @@
 ## ## Package / Font / dejavu
 ##
 
-dejavu-fonts-all
+#dejavu-fonts-all
 dejavu-sans-fonts
 dejavu-sans-mono-fonts
 dejavu-serif-fonts
