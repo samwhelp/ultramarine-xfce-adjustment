@@ -1,14 +1,14 @@
 
 
 ##
-## # Numix Theme
+## # Arc Theme
 ##
 
 
 
 
 ##
-## ## Package / Numix Theme
+## ## Package / Arc Theme
 ##
 
 arc-kde
