@@ -17,6 +17,16 @@
 
 
 
+## Fedora Package / Arc Theme
+
+| Fedora Package |
+| --- |
+| [arc-kde](https://packages.fedoraproject.org/pkgs/arc-kde/arc-kde/) |
+| [arc-theme](https://packages.fedoraproject.org/pkgs/arc-theme/arc-theme/) |
+
+
+
+
 ## Usage
 
 
