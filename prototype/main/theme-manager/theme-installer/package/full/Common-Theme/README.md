@@ -27,6 +27,16 @@
 
 
 
+## Fedora Package / Papirus
+
+| Fedora Package |
+| --- |
+| [papirus-icon-theme](https://packages.fedoraproject.org/pkgs/papirus-icon-theme/papirus-icon-theme/) |
+| [epapirus-icon-theme](https://packages.fedoraproject.org/pkgs/papirus-icon-theme/epapirus-icon-theme/) |
+
+
+
+
 ## Usage
 
 
