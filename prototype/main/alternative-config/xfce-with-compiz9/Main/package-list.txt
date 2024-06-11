@@ -11,6 +11,7 @@
 ## ## Package / Window Manager / compiz
 ##
 
+## for 0.9 series
 compiz9
 
 

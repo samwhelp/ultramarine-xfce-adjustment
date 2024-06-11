@@ -11,7 +11,12 @@
 ## ## Package / Window Manager / compiz
 ##
 
-compiz9
+## for 0.8 series
+compiz
+compiz-plugins-main
+compiz-plugins-extra
+compiz-plugins-experimental
+ccsm
 
 
 
