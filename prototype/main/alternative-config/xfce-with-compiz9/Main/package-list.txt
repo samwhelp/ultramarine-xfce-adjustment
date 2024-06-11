@@ -8,51 +8,59 @@
 
 
 ##
-## ## Package / Tool
+## ## Package / Window Manager / compiz
 ##
 
-
-
-
-##
-## ## Package / Tool / Launcher
-##
-
-rofi
+compiz9
 
 
 
 
 ##
-## ## Package / Tool / Terminal
+## ## Package / Theme / Papirus
 ##
 
-xfce4-terminal
-sakura
-
-
-
-
-##
-## ## Package / Tool / File Manager
-##
-
-thunar
+papirus-icon-theme
 
 
 
 
 ##
-## ## Package / Tool / Text Editor
+## ## Package / Theme / Numix
 ##
 
-mousepad
+#numix-gtk-theme
+#numix-icon-theme
+#numix-icon-theme-circle
+#numix-icon-theme-square
+
 
 
 
 
 ##
-## ## Package / Tool / Image Viewer
+## ## Package  / Theme / Arc
 ##
 
-viewnior
+#arc-theme
+#arc-kde
+
+
+
+##
+## ## Package  / Theme / Materia
+##
+
+materia-gtk-theme
+
+
+
+
+##
+## ## Package / Theme / Breeze
+##
+
+#breeze-gtk
+#breeze-icon-theme
+breeze-cursor-theme
+

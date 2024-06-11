@@ -11,6 +11,8 @@ xfce_config_run_pre () {
 
 	xfce_service_stop
 
+	gsettings_config
+
 
 	return 0
 
@@ -62,6 +64,32 @@ xfce_service_start () {
 
 
 	return 0
+
+}
+
+gsettings_config () {
+
+	gsettings_config_gnome_wm
+
+
+	return 0
+
+}
+
+gsettings_config_gnome_wm () {
+
+	echo
+	echo "gsettings set org.gnome.desktop.wm.preferences theme 'Materia-dark'"
+	gsettings set org.gnome.desktop.wm.preferences theme 'Materia-dark'
+
+
+
+	#gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:close'
+
+	echo
+	echo "gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:minimize,maximize,close'"
+	gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:minimize,maximize,close'
+
 
 }
 
