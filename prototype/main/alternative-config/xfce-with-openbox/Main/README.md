@@ -64,12 +64,15 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
-| [xfce4](https://packages.ubuntu.com/noble/xfce4) |
-
+| [openbox](https://packages.fedoraproject.org/pkgs/openbox/openbox/) |
+| [obconf](https://packages.fedoraproject.org/pkgs/obconf/obconf/) |
+| [picom](https://packages.fedoraproject.org/pkgs/picom/picom/) |
+| [feh](https://packages.fedoraproject.org/pkgs/feh/feh/) |
+| [rofi](https://packages.fedoraproject.org/pkgs/rofi/rofi/) |
 
 
 

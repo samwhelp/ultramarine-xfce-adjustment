@@ -64,11 +64,11 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
-| [xfce4](https://packages.ubuntu.com/noble/xfce4) |
+| [compiz9](https://pkgs.org/search/?q=compiz9) |
 
 
 
