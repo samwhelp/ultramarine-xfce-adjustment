@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Ultramarine Xfce](https://github.com/samwhelp/ultramarine-xfce-adjustment/tree/main/prototype/main) |
+| [Ultramarine Xfce Config](https://github.com/samwhelp/ultramarine-xfce-adjustment/tree/main/prototype/main) |
 
 
 
